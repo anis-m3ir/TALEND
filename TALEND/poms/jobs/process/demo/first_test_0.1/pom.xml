@@ -8,7 +8,7 @@
     <version>7.2.1</version>
     <relativePath>../../../../</relativePath>
   </parent>
-  <groupId>org.example.talend.job</groupId>
+  <groupId>org.talend.job</groupId>
   <artifactId>FIRST_TEST</artifactId>
   <version>0.1.0</version>
   <name>TALEND FIRST_TEST-0.1.0 (0.1,Jobs)</name>

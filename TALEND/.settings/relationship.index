@@ -72,6 +72,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "TALEND:_r2oG0FSxEe6gyobCRZfvkQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"

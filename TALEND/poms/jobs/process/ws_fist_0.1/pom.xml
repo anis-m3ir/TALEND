@@ -598,6 +598,11 @@
       <artifactId>routines</artifactId>
       <version>7.2.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.example.talend.job</groupId>
+      <artifactId>WS_FIIST_0</artifactId>
+      <version>0.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>

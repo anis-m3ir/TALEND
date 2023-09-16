@@ -8,7 +8,7 @@
     <version>7.2.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.talend.service</groupId>
+  <groupId>org.TEST.talend.service</groupId>
   <artifactId>WS_FIST-bundle</artifactId>
   <version>0.1.0</version>
   <packaging>bundle</packaging>

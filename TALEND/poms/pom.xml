@@ -13,6 +13,7 @@
     <module>jobs/process/first_test_0.1</module>
     <module>jobs/process/ws_fist_0.1</module>
     <module>jobs/process/ws_fiist_0_0.1</module>
+    <module>code/beans</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>

@@ -14,7 +14,6 @@
     <module>jobs/process/ws_fist_0.1</module>
     <module>jobs/process/ws_fiist_0_0.1</module>
     <module>code/beans</module>
-    <module>jobs/process/api_movie_0.1</module>
     <module>jobs/joblets/extract_param_0.1</module>
   </modules>
   <properties>

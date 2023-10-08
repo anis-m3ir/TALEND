@@ -15,7 +15,6 @@
     <module>jobs/process/ws_fiist_0_0.1</module>
     <module>code/beans</module>
     <module>jobs/joblets/extract_param_0.1</module>
-    <module>jobs/process/api_movies_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
